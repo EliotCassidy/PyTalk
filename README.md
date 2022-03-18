@@ -1,5 +1,5 @@
 # PyTalk
-> Le code est distribué sous licence libre GPL v3+ et le texte sous licence Creative Commons CC By-Sa, conformément aux demandes du concours.
+> Le code est distribué sous licence libre [GPL v3+](https://github.com/Trivador/PyTalk/blob/master/LICENSE) et le texte sous licence Creative Commons CC By-Sa, conformément aux demandes du concours.
 ###### PyTalk a été développé par Eliot CASSIDY et Antonin JOUVE, élèves faisant la spécialité NSI en 1ère Général.
 
 PyTalk est un logiciel de traduction en temps réel de la langue des signes. Ce programme a été développé dans le cadre du concours [trophées NSI](https://trophees-nsi.fr/). 

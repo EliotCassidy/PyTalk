@@ -80,7 +80,7 @@ no_sequences = 60
 
 # Les videos seront 20 frames
 sequence_length = 20
-
+"""
 # Créer les dossiers pour mettres data et no_sequences liste numpy 
 for action in actions: 
     for sequence in range(no_sequences):
@@ -115,7 +115,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.05)
 # Definis le chemin pour les logs TensorBoard
 log_dir = os.path.join('logs')
 tb_callback = TensorBoard(log_dir=log_dir)
-
+"""
 """
 # Deep Learning détection (stack overflowwwww)
 model = Sequential()

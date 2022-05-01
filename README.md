@@ -54,12 +54,12 @@ Notez également que ce programme nécésite une machine relativement puissante 
 
 
 ## Améliorations
-Nous avons pour ambition de continuer à suivre et à maintenir ce projet. Pour des soucis de temps liés à la date limite du concour, nous n'avons pas pu implémenter toutes les fonctionnalitées que nous avions imaginé.
+Nous avons pour ambition de continuer à suivre et à maintenir ce projet. Pour des soucis de temps liés à la date limite du concours, nous n'avons pas pu implémenter toutes les fonctionnalités que nous avions imaginé.
 Voici une liste non exhaustive des mises à jour que nous souhaiterons faire :
-- Ajouter une option graphique pour entrainer son modèle avec ses propres mots
+- Ajouter une option graphique pour entraîner son modèle avec ses propres mots
 - La retranscription d'une conversation en texte en temps réel
 - Une fois que le logiciel à reconnu un mot, le dire à haute voix à l'aide d'un text-to speech
-- Faire une version web de ce programme est le hoster en permanance (pas assez d'argent mais on a commencé)
+- Faire une version web de ce programme est le hoster en permanence (pas assez d'argent mais on a commencé)
 - Corriger certains bug graphique pouvant survenir
 
 Si vous avez d'autres pistes d'amélioration, veuillez nous en faire part dans l'onglet [idée](https://github.com/Trivador/PyTalk/discussions/categories/ideas)

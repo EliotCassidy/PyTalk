@@ -5,7 +5,7 @@
 
 PyTalk est un logiciel de traduction en temps réel de la langue des signes. Ce programme a été développé dans le cadre de la 1ère édition du concours [trophées NSI](https://trophees-nsi.fr/). 
 La présentation technique du projet peut-être trouvé dans les fichiers du projet.
-> UPDATE : Ce projet à été récompenser du prix pour le meilleur projet NSI des premières de la région PACA (que vous pouvez voir [ici](https://trophees-nsi.fr/resultats))
+> UPDATE : Ce projet a été récompensé du prix pour le meilleur projet NSI des premières de la région PACA (que vous pouvez voir [ici](https://trophees-nsi.fr/resultats))
 
 ## Démonstration 
 ![Traduction en temps réel](src/img/cap1.png)
